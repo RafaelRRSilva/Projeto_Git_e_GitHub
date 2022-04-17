@@ -7,7 +7,35 @@
 - [ Markdown ] <https://www.markdownguide.org/basic-syntax/>
 - [ GitHub ] <https://www.github.com>
 
-## Comandos do Git 
+## Comandos do Git
+
+### Comandos para o Terminal
+
+- crtl + l ou clear 
+  - limpa tela
+
+- mkdir nome_da_pasta 
+  - cria uma pasta 
+
+- cd 
+  - entrar na pasta
+
+- cd .. 
+  - sair da pasta
+
+- ls 
+  - ver o que tem dentro da pasta
+
+- rm 
+  - deleta arquivo
+
+- rm -r nome 
+  - remover
+
+- rm -rf nome 
+  - remove tudo
+
+### Comandos Git 
 
 - Ajuda
   - git help -> comando geral
@@ -49,5 +77,3 @@
   - git log (exibir histórico)
   - git log -- <caminho_do_arquivo> (exibir histórico de um arquivo específico)
   - git log --author=usuário (exibir histórico de um determinado)
-
-
